@@ -9,6 +9,7 @@ The aim of this project is to create an interactive dashboard that enables the g
 The above-mentioned dashboard offers substantial business value by providing real-time data and insights into COVID-19 vaccination status on a global scale. It empowers decision-makers to allocate resources effectively, assess risks, and make informed decisions about international travel, trade, supply chain management, and employee safety. The correlation between GDP per Capita and vaccination rates also aids in market insights and strategy adaptation. Moreover, it showcases a commitment to public health and safety, enhancing reputation and customer engagement, while facilitating compliance with changing regulations. This comprehensive tool contributes significantly to efficient and data-driven business operations during the ongoing pandemic.
 
 ## Static Image of Dashboard:
+![dashboard](https://github.com/MohamedElenany/Global_COVID19_Vaccine_Dashboard/blob/main/Global%20Vaccine%20Tracker.png)
 
 ## Files Uploaded
 - **Tableau:**
