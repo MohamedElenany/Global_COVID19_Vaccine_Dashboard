@@ -19,4 +19,5 @@ The above-mentioned dashboard offers substantial business value by providing rea
  
 ## External Resources:
 **Dataset:** Our World in Data COVID Vaccines Dataset [https://ourworldindata.org/covid-vaccinations]
+
 **Youtube References:** https://www.youtube.com/watch?v=g6cjhUhrhY8 | https://www.youtube.com/watch?v=CnzbSERa7NM
