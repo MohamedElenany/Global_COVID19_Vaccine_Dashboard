@@ -14,7 +14,6 @@ The above-mentioned dashboard offers substantial business value by providing rea
 ## Files Uploaded
 - **Tableau:**
   - *Global_COVID_Tracker.twbx* : Contains the tableau file of the dashboard.
-- *Global Vaccine Tracker.pdf* : Contains a pdf screenshot of the dashboard.
 - *Global Vaccine Tracker.png* : Contains an image screenshot of the dashboard.
  
 ## External Resources:
